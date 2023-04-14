@@ -1,0 +1,15 @@
+D:\C#\PersonDetails\PersonDetails\bin\Debug\net6.0\PersonDetails.exe
+D:\C#\PersonDetails\PersonDetails\bin\Debug\net6.0\PersonDetails.deps.json
+D:\C#\PersonDetails\PersonDetails\bin\Debug\net6.0\PersonDetails.runtimeconfig.json
+D:\C#\PersonDetails\PersonDetails\bin\Debug\net6.0\PersonDetails.dll
+D:\C#\PersonDetails\PersonDetails\bin\Debug\net6.0\PersonDetails.pdb
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.csproj.AssemblyReference.cache
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.AssemblyInfoInputs.cache
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.AssemblyInfo.cs
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.csproj.CoreCompileInputs.cache
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.dll
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\refint\PersonDetails.dll
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.pdb
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\PersonDetails.genruntimeconfig.cache
+D:\C#\PersonDetails\PersonDetails\obj\Debug\net6.0\ref\PersonDetails.dll
